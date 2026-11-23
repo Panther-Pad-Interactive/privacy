@@ -1,0 +1,1 @@
+This repository holds the public privacy policy for Panther Pad Interactive, the game studio of Panther Pad LLC. The live page is at https://panther-pad-interactive.github.io/privacy/, with Haitian Creole, French, and Spanish translations; the policy text is copyright 2026 Panther Pad LLC and is licensed under CC BY 4.0.
